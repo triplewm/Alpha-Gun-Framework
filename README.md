@@ -5,3 +5,5 @@ The gun system is highly customizable to your needs with more features coming so
 The first release will have:
 - Stable damage system.
 - Somewhat advanced projectile physics.
+
+more coming soon such as fixing latency problems which affect physics
